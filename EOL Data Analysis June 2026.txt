@@ -1,0 +1,125 @@
+EOL Data Analysis June 2026
+============================
+
+End of Life Training Survey Analysis
+
+Analysis of 379 responses, 200 pre-training and 179 post-training.
+Questions analyzed:
+- Q1 — Prior end-of-life (EOL) care experience
+- Q2 — Combat experience
+- Q3 — Cadaver experience
+- Q4 — Years serving as Chaplain/RAS
+- Q1.1 — Preparedness to provide EOL care (Likert, roughly -2 to +3)
+- Q1.3 — Preparedness to handle 10+ similar situations per day (same scale)
+
+Pre/post comparisons use independent samples (different respondents at each time point). For Q1.1 and Q1.3, Mann-Whitney U tests were used because the data are ordinal Likert scores.
+
+
+OVERALL PRE VS. POST TRAINING
+-----------------------------
+
+Background / Experience (Q1-Q4)
+
+Q1 — Provided EOL care
+  Pre:  42.5% Yes (85/200)
+  Post: 63.7% Yes (114/179)
+  Change: +21.2 percentage points (p < .001)
+
+Q2 — Combat experience
+  Pre:  33.0% Yes (66/200)
+  Post: 25.7% Yes (46/179)
+  Change: -7.3 percentage points (p = .149, not significant)
+
+Q3 — Cadaver experience
+  Pre:  51.0% Yes (102/200)
+  Post: 70.9% Yes (127/179)
+  Change: +19.9 percentage points (p < .001)
+
+Q4 — Years serving
+  Pre:  M = 5.2, SD = 4.9, Median = 4.0 (n = 151)
+  Post: M = 5.6, SD = 5.3, Median = 4.0 (n = 171)
+  Change: No meaningful shift (p = .442)
+
+Pre and post groups were similar in tenure (Q4) and combat exposure (Q2). Reported EOL care (Q1) and cadaver experience (Q3) were higher post-training. That may reflect training content, recall, or self-reporting rather than a true change in lifetime experience—worth noting when interpreting.
+
+
+Preparedness (Q1.1 and Q1.3)
+
+Q1.1 — Prepared for EOL care
+  Pre:  M = 0.72, SD = 1.13, Median = 1.0
+  Post: M = 1.16, SD = 0.70, Median = 1.0
+  p-value: 0.0002
+
+Q1.3 — Prepared for sustained high volume
+  Pre:  M = 0.10, SD = 1.05, Median = 0.0
+  Post: M = 0.84, SD = 0.90, Median = 1.0
+  p-value: < 0.0001
+
+Both preparedness items improved significantly overall.
+
+Q1.1 (single-case preparedness):
+  Pre:  66.5% rated >= 1 (somewhat/agree prepared), 20.0% neutral (0), 13.5% negative (< 0)
+  Post: 87.2% >= 1, 11.2% neutral, 1.7% negative
+
+Q1.3 (sustained-volume preparedness):
+  Pre:  37.0% >= 1, 36.0% neutral, 27.0% negative
+  Post: 72.1% >= 1, 19.6% neutral, 8.4% negative
+
+The largest gain was on Q1.3: fewer neutral/negative responses and a clear shift toward positive preparedness after training.
+
+
+BY TRAINING PERIOD (cohorts with both pre and post data)
+--------------------------------------------------------
+
+Six dates had matched pre/post collections:
+
+Apr 17, 2025 (Pre n=49, Post n=48)
+  Q1.1: 0.96 -> 1.10 (p = .563)
+  Q1.3: 0.27 -> 0.50 (p = .193)
+
+May 29, 2025 (Pre n=47, Post n=31)
+  Q1.1: 1.00 -> 1.32 (p = .127)
+  Q1.3: -0.06 -> 1.19 (p < .001)
+
+Mar 26, 2026 (Pre n=18, Post n=16)
+  Q1.1: 0.67 -> 1.06 (p = .312)
+  Q1.3: 0.39 -> 0.56 (p = .560)
+
+Apr 27, 2026 (Pre n=18, Post n=13)
+  Q1.1: 0.67 -> 0.85 (p = .715)
+  Q1.3: 0.39 -> 0.62 (p = .513)
+
+Apr 28, 2026 (Pre n=10, Post n=17)
+  Q1.1: -0.40 -> 1.41 (p = .003)
+  Q1.3: -0.30 -> 0.88 (p = .025)
+
+Jun 1, 2026 (Pre n=20, Post n=24)
+  Q1.1: 0.60 -> 1.12 (p = .087)
+  Q1.3: 0.30 -> 0.71 (p = .070)
+
+Cohort patterns:
+
+- Apr 17, 2025 (largest early cohort): Modest gains on Q1.1 and Q1.3; neither significant. Q3 cadaver reporting rose sharply (55% -> 88% pre to post).
+
+- May 29, 2025: Strong, significant gain on Q1.3 (near zero pre to 1.19 post). Q1.1 trended up but did not reach significance.
+
+- Mar-Apr 2026 (smaller cohorts): Mixed results; Apr 28 showed the clearest significant improvements on both Q1.1 and Q1.3, with pre means below zero (more negative preparedness) shifting to strongly positive post scores.
+
+- Jun 1, 2026: Meaningful gains on both items (Q1.1 p = .087; Q1.3 p = .070), near conventional significance with n = 20/24.
+
+Background items by cohort were generally stable on Q2 and Q4. Q1 and Q3 often increased post-training (e.g., Jun 1: Q1 40% -> 83%; Q3 50% -> 71%), similar to the overall pattern.
+
+
+NARRATIVE SUMMARY
+-----------------
+
+End-of-life training appears to increase self-reported preparedness, especially for handling many cases over time (Q1.3). Overall, both preparedness items improved significantly:
+
+- Q1.1: p = 0.0002
+- Q1.3: p = < 0.0001
+
+Effects were strongest in the pooled sample and variable by cohort. Smaller or already somewhat prepared groups (e.g., Apr 2025, May 2025 on Q1.1) showed smaller or non-significant shifts. Cohorts starting with lower baseline preparedness (notably Apr 28, 2026) showed the clearest session-level gains.
+
+Experience items (Q1-Q3) suggest post-training groups report more EOL and cadaver exposure; Q2 and Q4 did not differ meaningfully pre vs. post, supporting comparability of groups on combat history and tenure.
+
+Limitations: Independent pre/post samples (not paired within individuals), uneven cohort sizes, and some dates with only pre or only post responses. Mann-Whitney U treats Likert scores as ordinal, which is standard but does not assume interval-level measurement.

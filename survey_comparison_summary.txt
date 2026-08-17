@@ -1,0 +1,56 @@
+Survey Comparison Summary
+=======================
+
+1. Experience Comparison
+----------------------
+Provided End of Life Care (EOLC):
+  Pre-Survey: 40.8% Yes
+  Post-Survey: 64.6% Yes
+  Change: +23.8%
+
+Been in Combat Situations:
+  Pre-Survey: 30.6% Yes
+  Post-Survey: 29.2% Yes
+  Change: -1.4%
+
+Worked with Cadavers:
+  Pre-Survey: 55.1% Yes
+  Post-Survey: 87.5% Yes
+  Change: +32.4%
+
+
+2. Preparedness Comparison
+------------------------
+Q1. Do you feel prepared to provide end of life care to this dying Soldier?:
+  Pre-Survey Mean: 0.96
+  Post-Survey Mean: 1.10
+  Change: +0.14
+
+Q3. Do you feel prepared to handle more than 10 situations like Soldier each day over a sustained period?:
+  Pre-Survey Mean: 0.27
+  Post-Survey Mean: 0.50
+  Change: +0.23
+
+
+3. Scenario Response Comparison
+----------------------------
+S1 Q2. When SPC Smith asks you if he is going to die, will you tell him yes?:
+  Pre-Survey Mean: 0.18
+  Post-Survey Mean: -0.04
+  Change: -0.23
+
+S2 Q2. In his dying moments, SGT Tanner asks you if Jimmy, his team leader, is okay. Will you tell him that Jimmy is dead?:
+  Pre-Survey Mean: -0.10
+  Post-Survey Mean: -0.46
+  Change: -0.36
+
+S3 Q2. As the Soldier dies, the medic asks you to pray over the foreign Soldier. Will you pray for this foreign Soldier because the medic requested it?:
+  Pre-Survey Mean: 0.43
+  Post-Survey Mean: 0.73
+  Change: +0.30
+
+S4 Q2. As CPT Mohamed dies, he asks you to pray over him. Will you pray for a Muslim Soldier per his request?:
+  Pre-Survey Mean: 1.00
+  Post-Survey Mean: 0.06
+  Change: -0.94
+

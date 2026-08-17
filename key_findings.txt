@@ -1,0 +1,11 @@
+Key Findings from EOL Survey Analysis:
+
+Experience Summary:
+Total Respondents: 49
+EOLC Experience: {'N': 29, 'Y': 20}
+Combat Experience: {'N': 34, 'Y': 15}
+Cadaver Experience: {'Y': 27, 'N': 22}
+
+Preparedness Summary:
+EOLC Preparedness: {1: 20, 2: 15, 0: 8, -1: 4, 3: 1, -2: 1}
+Multiple Cases Preparedness: {0: 15, 1: 14, -1: 10, 2: 6, -2: 3, 3: 1}

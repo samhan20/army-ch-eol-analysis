@@ -1,0 +1,15 @@
+Key Findings from EOL Survey Analysis:
+
+Experience Summary:
+Total Respondents: 48
+EOLC Experience: {'Y': 31, 'N': 17}
+Combat Experience: {'N': 34, 'Y': 14}
+Cadaver Experience: {'Y': 42, 'N': 6}
+
+Preparedness Summary:
+EOLC Preparedness: {1: 28, 2: 14, 0: 4, -2: 1, -1: 1}
+Multiple Cases Preparedness: {1: 25, 0: 7, -1: 7, 2: 6, -2: 3}
+
+Faith and Comfort Summary:
+Same Faith Group as Soldier: {'Y': 36, 'N': 12}
+Comfort with Different Faith Practices: {1.0: 10, 2.0: 4, 0.0: 3, -1.0: 2, -2.0: 1}

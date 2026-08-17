@@ -1,0 +1,9 @@
+,Q3. Do you feel prepared to handle more than 10 situations like Soldier each day over a sustained period?,"S1 Q2. When SPC Smith asks you if he is going to die, will you tell him yes?","S2 Q2. In his dying moments, SGT Tanner asks you if Jimmy, his team leader, is okay. Will you tell him that Jimmy is dead?","S3 Q2. As the Soldier dies, the medic asks you to pray over the foreign Soldier. Will you pray for this foreign Soldier because the medic requested it?","S4 Q2. As CPT Mohamed dies, he asks you to pray over him. Will you pray a Muslim prayer per his request?",Provided End of Life Care (EOLC),Been in Combat Situations,Worked with Cadavers
+count,48.0,48.0,48.0,48.0,48.0,,,
+mean,0.5,-0.041666666666666664,-0.4583333333333333,0.7291666666666666,0.0625,,,
+std,1.0915536458196307,1.3201923350097287,1.1290804643759722,1.005084591196678,1.0994437665222723,,,
+min,-2.0,-2.0,-2.0,-1.0,-2.0,,,
+25%,0.0,-1.0,-1.0,0.0,-1.0,,,
+50%,1.0,0.0,-1.0,1.0,0.0,,,
+75%,1.0,1.0,0.0,1.25,1.0,,,
+max,2.0,2.0,2.0,2.0,2.0,,,

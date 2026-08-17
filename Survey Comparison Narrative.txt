@@ -1,0 +1,67 @@
+Survey Comparison Narrative
+
+1. Experience Comparison
+
+Provided End of Life Care (EOLC):
+Pre-Survey: 40.8% had EOLC experience
+Post-Survey: 64.6% had EOLC experience
+Change: +23.8%
+Interpretation: There was a substantial increase in the proportion of respondents with EOLC experience after the intervention or over time.
+
+Been in Combat Situations:
+Pre-Survey: 30.6% had combat experience
+Post-Survey: 29.2% had combat experience
+Change: -1.4%
+Interpretation: The proportion of respondents with combat experience remained essentially unchanged.
+
+Worked with Cadavers:
+Pre-Survey: 55.1% had worked with cadavers
+Post-Survey: 87.5% had worked with cadavers
+Change: +32.4%
+Interpretation: There was a large increase in cadaver experience, suggesting more exposure to this aspect of care.
+
+2. Preparedness Comparison
+
+Q1. Prepared to provide end of life care:
+Pre-Survey Mean: 0.96
+Post-Survey Mean: 1.10
+Change: +0.14
+Interpretation: There was a modest increase in self-reported preparedness to provide EOL care.
+
+Q3. Prepared to handle >10 situations per day:
+Pre-Survey Mean: 0.27
+Post-Survey Mean: 0.50
+Change: +0.23
+Interpretation: Respondents felt more prepared to handle a high volume of EOL cases after the intervention.
+
+3. Scenario Response Comparison
+
+S1 Q2. Will you tell SPC Smith he is going to die?
+Pre-Survey Mean: 0.18
+Post-Survey Mean: -0.04
+Change: -0.23
+Interpretation: Respondents became slightly less likely to answer “yes” to directly telling a dying soldier about their prognosis.
+
+S2 Q2. Will you tell SGT Tanner that Jimmy is dead?
+Pre-Survey Mean: -0.10
+Post-Survey Mean: -0.46
+Change: -0.36
+Interpretation: There was a shift toward less willingness to disclose a teammate’s death in the moment.
+
+S3 Q2. Will you pray for a foreign soldier at the medic’s request?
+Pre-Survey Mean: 0.43
+Post-Survey Mean: 0.73
+Change: +0.30
+Interpretation: Respondents became more willing to provide spiritual support for foreign soldiers at the request of medical staff.
+
+S4 Q2. Will you pray for a Muslim soldier per his request?
+Pre-Survey Mean: 1.00
+Post-Survey Mean: 0.06
+Change: -0.94
+Interpretation: There was a marked decrease in willingness to pray a Muslim prayer per the dying soldier’s request, which may reflect increased awareness of religious boundaries or personal comfort levels.
+
+Overall Insights
+The training or experience between surveys led to more respondents having direct EOLC and cadaver experience.
+Preparedness for EOLC and high-volume situations improved, but only modestly.
+Scenario-based responses show nuanced changes: more willingness to provide spiritual support in some contexts, but less directness in communication about death and less willingness to perform religious rites outside one's own tradition.
+If you want a more detailed breakdown or visualizations for any specific question, let me know!
