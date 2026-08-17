@@ -1,1 +1,0 @@
-# army-ch-eol-analysis
